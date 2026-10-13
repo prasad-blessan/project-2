@@ -33,7 +33,7 @@ export function Sidebar() {
         </div>
         <div>
           <p className="text-sm font-bold leading-tight text-[var(--color-ink)]">LifePilot AI</p>
-          <p className="text-[11px] leading-tight text-[var(--color-ink-secondary)]">Life command center</p>
+          <p className="text-[11px] leading-tight text-[var(--color-ink-secondary)]">Life command center test</p>
         </div>
       </div>
 
